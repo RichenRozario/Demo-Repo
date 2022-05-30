@@ -1,3 +1,3 @@
 Hello Buddy.
 
-Starting Git from begining.
+Starting Git from begining!
